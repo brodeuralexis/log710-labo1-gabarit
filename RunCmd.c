@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(int _argc, char** _argv)
+int main(int argc, char** argv)
 {
-    puts("RunCmd");
     return 0;
 }
